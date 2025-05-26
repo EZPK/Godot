@@ -13,13 +13,6 @@
 
 ---
 
-## 🤝 Contribuer
-
-> Ce projet est personnel, mais les suggestions ou améliorations sont les bienvenues.  
-Tu peux ouvrir une **issue** ou proposer une **pull request**.
-
----
-
 ## 📄 Licence
 
 Ce projet est open-source sous licence MIT.
