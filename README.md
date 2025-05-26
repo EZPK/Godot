@@ -9,7 +9,7 @@
 
 ## 🔧 À faire
 
-- [Kanban du projet ] (https://github.com/users/EZPK/projects/1)
+- [Kanban du projet ](https://github.com/users/EZPK/projects/1)
 
 ---
 
