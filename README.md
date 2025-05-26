@@ -9,11 +9,7 @@
 
 ## 🔧 À faire
 
-- [ ] Attaque du joueur
-- [ ] Système de santé et dégâts
-- [ ] Multiples ennemis
-- [ ] Système de loot ou compétences
-- [ ] Menu principal et UI plus avancée
+- [Kanban du projet ] (https://github.com/users/EZPK/projects/1)
 
 ---
 
